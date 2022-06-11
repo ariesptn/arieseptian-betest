@@ -1,5 +1,6 @@
 User Service Sample project using NodeJS, Express, JWT, Mongoose (MongoDB), and Redis
 
+To configure the server, rename the `.env-template` file to `.env` and edit the file as needed.
 
 Use the following endpoint to get the token:
 
